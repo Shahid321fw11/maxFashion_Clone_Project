@@ -55,15 +55,15 @@ Landmark Group has multiple retail brands, including Centrepoint, Babyshop, Spla
 
 
 ## Glimpse of My work
+
+![](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/MaxFashion.png?raw=true)
+
 <!-- 
-![](https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/blob/main/images/beautypage.png?raw=true)
-
-
 ![Wishlist](https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/blob/main/images/wishlist.png?raw=true)
 
 
 ![Product Description](https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/blob/main/images/description.png?raw=true)
+
+
+
  -->
-
-
-
