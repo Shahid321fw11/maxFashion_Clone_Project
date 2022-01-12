@@ -56,14 +56,19 @@ Landmark Group has multiple retail brands, including Centrepoint, Babyshop, Spla
 
 ## Glimpse of My work
 
-![](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/MaxFashion.png?raw=true)
+![HOMEPAGE](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/MaxFashion.png?raw=true)
 
-<!-- 
-![Wishlist](https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/blob/main/images/wishlist.png?raw=true)
+![WomenPage](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/WomenPage.png?raw=true)
 
+![WomenPage](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/WomenProduct.png?raw=true)
 
-![Product Description](https://github.com/Smrutiranjan-Patra/shopper-stop-clone-public/blob/main/images/description.png?raw=true)
+![WomenProduct](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/MenProduct.png?raw=true)
 
+![HOMEPAGE](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/BoysPage.png?raw=true)
 
+![HOMEPAGE](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/BoysProduct.png?raw=true)
 
- -->
+![HOMEPAGE](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/Footer1.png?raw=true)
+
+![HOMEPAGE](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/Footer2.png?raw=true)
+
